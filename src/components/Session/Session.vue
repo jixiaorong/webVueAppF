@@ -279,7 +279,7 @@ export default{
  }
  .showPosition{
       position: absolute;
-    bottom:2.5rem;
+    bottom:3.2rem;
     left: 0px;
  }
 /* 切换聊天 */
